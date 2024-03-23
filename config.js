@@ -72,7 +72,7 @@ global.error = '❌'
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
+global.maxwarn = '4' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
